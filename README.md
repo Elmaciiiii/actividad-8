@@ -33,7 +33,7 @@ Crear una base de datos nueva con el nombre: `wordpress`.
 ## 🔶 5. Ir a `localhost/wordpress` en el navegador
 En el navegador, ir a: [http://localhost/wordpress](http://localhost/wordpress)
 
-Seleccionar el idioma (por ejemplo: Español).
+Seleccionar el idioma (por ejemplo: Español de Argentina).
 
 ## 🔧 6. Configurar conexión a la base de datos
 Aparecerá un formulario como este:
