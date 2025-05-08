@@ -78,3 +78,5 @@ Completar el formulario con:
 Luego, hacer clic en **Instalar WordPress**.
 
 Una vez instalada, iniciar sesión en el registro que te aparece usando el nombre de usuario y la contraseña copiada.
+
+¡Listo! WordPress ya está instalado y funcionando
