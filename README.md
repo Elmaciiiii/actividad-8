@@ -1,4 +1,4 @@
-# 🛠️ Guía Paso a Paso – Instalación y Actividad con WordPress
+# 🛠️ Guía Paso a Paso – Instalación de WordPress
 
 ## 🔶 1. Ingresar a WordPress.org y descargar WordPress
 Entrar al sitio [https://wordpress.org](https://wordpress.org).
