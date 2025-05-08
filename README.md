@@ -60,6 +60,20 @@ Buscar estas líneas y editarlas así:
 define( 'DB_NAME', 'wordpress' );
 define( 'DB_USER', 'root' );
 define( 'DB_PASSWORD', '' );
-
+```
 
 Guardar el archivo y renombrarlo como wp-config.php.
+
+🔶 8. Finalizar la instalación desde el navegador  
+Volver a: http://localhost/wordpress  
+
+Completar el formulario con:
+
+- **Título del sitio:** WordPress de prueba  
+- **Nombre de usuario:** wordpress_admin  
+- **Contraseña:** ya viene generada, hay que copiarla para iniciar sesión después  
+- **Tu correo electrónico:** (ingresar un correo válido)  
+
+Luego, hacer clic en **Instalar WordPress**.
+
+Una vez instalada, iniciar sesión en el registro que te aparece usando el nombre de usuario y la contraseña copiada.
