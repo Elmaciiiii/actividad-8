@@ -37,6 +37,7 @@ Seleccionar el idioma (por ejemplo: Español de Argentina).
 
 ## 🔧 6. Configurar conexión a la base de datos
 Aparecerá un formulario como este:
+
 ![image](https://github.com/user-attachments/assets/9200edb3-9be4-447b-b0e1-57a87f7d352c)
 
 Debés completarlo así:
@@ -54,7 +55,7 @@ Ir a la carpeta `C:\xampp\htdocs\wordpress`.
 
 Abrir el archivo `wp-config-sample.php` en Visual Studio Code.
 
-Buscar estas líneas y editarlas así:
+Buscá las líneas donde se define la conexión a la base de datos y modificá así:
 
 ```php
 define( 'DB_NAME', 'wordpress' );
@@ -65,8 +66,8 @@ define( 'DB_PASSWORD', '' );
 Guardar el archivo y renombrarlo como wp-config.php.
 
 🔶 8. Finalizar la instalación desde el navegador  
-Volver a: http://localhost/wordpress  
-
+Volver a: http://localhost/wordpress y veras que se habra arreglado el error, por lo que te aparecera un formulario.
+ 
 Completar el formulario con:
 
 - **Título del sitio:** WordPress de prueba  
